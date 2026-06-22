@@ -1,9 +1,10 @@
-Project Summary: Finly – AI-Powered Loan Recovery Ecosystem
+Project Summary:  Finly – AI-Powered Loan Recovery Ecosystem
+
 For a detailed breakdown of the data analysis and predictive modeling, please see the full project report.
 
 Addressing the challenges of an NBFC's inefficient, one-size-fits-all loan collection process, this project introduces a closed-loop, AI-powered ecosystem designed to shift collections from a reactive chore into a proactive, customer-centric operation.
 
-Live Demo Link: Interact with Finly on Streamlit
+Live Demo Link:[ Interact with Finly on Streamlit](https://finly-personalized-credit-assistant-tmpgmwk2ntld3za4uncl8i.streamlit.app/)
 
 Core Pillars of the Solution
 1. High-Accuracy Prediction
